@@ -25,12 +25,12 @@ const projectsData = [
   },
   {
     id: 3,
-    title: 'AI Keyword Extractor',
-    description: 'extract important keywords from paragraph',
+    title: 'QR code generator',
+    description: 'generate qr codes for any urls',
     image: './aikeywordextractor.png',
     tag: ['All', 'Web'],
-    gitUrl: 'https://github.com/narayankumarwb/ai-keyword-extractor',
-    previewUrl: 'https://ai-keyword-extractor-six.vercel.app/',
+    gitUrl: 'https://github.com/narayankumarwb/qr-code-generator',
+    previewUrl: 'https://qrcodegenerator-2342.web.app/',
   },
 ];
 
