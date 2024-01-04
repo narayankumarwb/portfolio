@@ -27,7 +27,7 @@ const projectsData = [
     id: 3,
     title: 'QR code generator',
     description: 'generate qr codes for any urls',
-    image: './aikeywordextractor.png',
+    image: './qrcodeimage.png',
     tag: ['All', 'Web'],
     gitUrl: 'https://github.com/narayankumarwb/qr-code-generator',
     previewUrl: 'https://qrcodegenerator-2342.web.app/',
